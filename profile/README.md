@@ -1,6 +1,6 @@
 ![CogniChem Logo](https://cognichem.com/images/cc-logo-color.svg)
 
-Welcome to our GitHub organization! We are dedicated to advancing the field of computational chemistry/biology by providing high-quality tools and resources for researchers, educators, and industry professionals.
+Welcome to our GitHub organization! We are dedicated to advancing the fields of computational chemistry and biology by providing high-quality tools and resources for researchers, educators, and industry professionals.
 
 ## About Us
 Our mission is to accelerate scientific discovery and innovation in chemistry/biology through modern software solutions. We develop, maintain, and support a diverse suite of projects and products that enable:
