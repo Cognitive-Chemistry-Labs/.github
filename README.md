@@ -23,6 +23,3 @@ We welcome contributions from the community! If you are interested in collaborat
 
 ## Contact
 For questions, support, or collaboration inquiries, please contact us via GitHub Issues or visit our [website](https://cognichem.com).
-
----
-Empowering computational chemistry through open science and collaboration.
